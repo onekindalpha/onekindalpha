@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm onekindalpha
 
 Krafton Jungle에서 C, 운영체제(PintOS), 컴퓨터 시스템(CS:APP)을 공부하고 있습니다.
+AI 서비스를 만들다 그 아래의 원리가 궁금해져 시스템을 파고들고 있습니다. AI에게 일을 맡기되, 판단 기준과 검증 루프는 직접 설계합니다.
 
 ### 🧩 Algorithm
 [![BOJ](./boj-card.svg)](https://boj-archive.taild5273f.ts.net/user/dmsgi1996)
