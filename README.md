@@ -1,7 +1,13 @@
-## 👋 Hi, I'm onekindalpha
+## 👋 Hi, I'm 김은기
 
-Krafton Jungle에서 C, 운영체제(PintOS), 컴퓨터 시스템(CS:APP)을 공부하고 있습니다.
-AI 서비스를 만들다 그 아래의 원리가 궁금해져 시스템을 파고들고 있습니다. AI에게 일을 맡기되, 판단 기준과 검증 루프는 직접 설계합니다.
+AI 서비스를 만들다 그 아래에서 무슨 일이 일어나는지 궁금해져, LLM의 동작 원리와 컴퓨터 시스템을 함께 파고들고 있습니다.
+
+### 일하는 방식
+일을 시작하기 전에 좋은 결과의 기준을 먼저 정하고, 판정은 사람의 눈이 아니라 테스트에 맡기며, 그 판정에 허점이 보이면 기준부터 다시 고치고, 불리한 결과도 남깁니다.
+
+- 기준을 먼저 정하고 테스트로 판정하기 → [context-continuity-engine](https://github.com/onekindalpha/context-continuity-engine) (통제 실험, 회귀 테스트 94개 하네스)
+- 측정하며 개선하기 → [malloc_lab](https://github.com/onekindalpha/malloc_lab) (59점 → 99점, 15개 항목 힙 검사기)
+- 끝까지 원인 추적하기 → [threads_user_program](https://github.com/onekindalpha/threads_user_program) (multi-oom 커널 버그, 3개 환경 1,080회 반복 검증)
 
 ### 🧩 Algorithm
 [![BOJ](./boj-card.svg)](https://boj-archive.taild5273f.ts.net/user/dmsgi1996)
